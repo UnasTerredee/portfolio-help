@@ -8,9 +8,9 @@ Portfolio Performance unterstützt Konten und Wertpapiere in Fremdwährungen.
 
 * Die **Berichtswährung** stellt man unter *Berichte -> Vermögensaufstellung* oben rechts in der Werkzeugleiste ein.
 * Beträge in der Berichtswährung werden üblicherweise ohne Währungskürzel dargestellt (damit die Ansichten nicht unnötig viele Informationen darstellen).
-* Konten und Wertpapiere können in einer Fremdwährung geführt werden. In einem Portfolio können Wertpapiere unterschiedlichster Währung existieren. Ein Wertpapiere ohne Währung wird als *Aktienindex* interpretiert und kann entsprechend nicht gekauft werden.
+* Konten und Wertpapiere können in einer Fremdwährung geführt werden. In einem Portfolio können Wertpapiere unterschiedlichster Währung existieren. Ein Wertpapier ohne Währung wird als *Aktienindex* interpretiert und kann entsprechend nicht gekauft werden.
 * Neben den Wechselkursen der [Europäischen Zentralbank](#referenzwechselkurse-der-europaischen-zentralbank) kann man auch [benutzerdefinierte Wechselkurse](#benutzerdefinierte-wechselkurse) anlegen und - anlog zu Wertpapieren - aus den üblichen Quellen mit Kursen versorgen.
-* Standardmässig rechnet PP bei monetären Beträgen mit 2 Nachkommastellen und bei Wechselkursen mit 4 Nachkommastellen. Wenn der Wechselkurse invertiert wird, rechnet PP mit 10 Nachkommastellen.
+* Standardmässig rechnet PP bei monetären Beträgen mit 2 Nachkommastellen und bei Wechselkursen mit 4 Nachkommastellen. Wenn der Wechselkurs invertiert wird, rechnet PP mit 10 Nachkommastellen.
 * Wechselkurse können in [Mengennotierung oder Preisnotierung](#notierung) dargestellt werden.
 * Beträge in einer Buchung werden - wenn möglich - mit dem Wechselkurs aus der Buchung selbst umgerechnet.
 
